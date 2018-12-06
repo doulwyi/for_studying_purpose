@@ -1,1 +1,2 @@
-# for_studying_purpose
+# Udacity
+All Udacity lessons from deep learning course
